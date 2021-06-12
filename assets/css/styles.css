@@ -793,7 +793,7 @@ img {
 
 /*==================== FOOTER ====================*/
 .footer {
-  padding: 2rem;
+  padding-top: 2rem;
 }
 
 .footer__container {
@@ -837,7 +837,7 @@ img {
 .footer__copy {
   font-size: var(--smaller-font-size);
   text-align: center;
-  color: #fff;
+  color: var(--first-color-lighter);
   margin-top: var(--mb-3);
 }
 
